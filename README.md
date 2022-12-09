@@ -27,3 +27,7 @@ Link: https://www.udemy.com/course/blockchain-developer/
     remixd -s ~/myLocalWorkspace
     ```
 * Connect to localhost from remix.ethereum.org
+
+#### Metamask
+* Go to https://metamask.io
+* Install the extension
