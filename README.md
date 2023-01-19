@@ -15,7 +15,11 @@ Link: https://www.udemy.com/course/blockchain-developer/
     # MacOSX:
     sudo port install npm8
 
-    # Install remixd:
+    # Ubuntu:
+    sudo apt install npm
+    
+
+    # (All OS) Install remixd:
     sudo npm install -g @remix-project/remixd
     ```
 * Start local remixd at deisired location.
